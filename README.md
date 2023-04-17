@@ -5,7 +5,7 @@
 Lorep ipsum...
 
 - 🌍  I'm based in Bari,Italy
-- 🖥️  See my portfolio at [MyPortfolio](http://pcomp96.github.io/portfolio)
+- 🖥️  See my portfolio at [MyPortfolio](http://pcomp96.it)
 - ✉️  You can contact me at [compierchiogi96@gmail.com](mailto:compierchiogi96@gmail.com)
 - 🚀  I'm currently working in [Auriga](http://aurigaspa.com)
 - 🧠  I'm learning Quarkus,Astro and React
