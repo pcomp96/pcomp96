@@ -9,7 +9,8 @@ Lorep ipsum...
 - ✉️  You can contact me at [compierchiogi96@gmail.com](mailto:compierchiogi96@gmail.com)
 - 🚀  I'm currently working in [Auriga](http://aurigaspa.com)
 - 🧠  I'm learning Quarkus,Astro and React
-- 🤝  I'm open to collaborating on interesting project
+- 🤝 I'm open to collaborating on interesting project
+- ⚽️ I am currently playing amateur football in Young Glories
 - ⚡  ⚽️ 🎮 🍸
 
 ## Skills
