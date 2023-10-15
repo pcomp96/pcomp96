@@ -6,8 +6,8 @@ Lorep ipsum...
 
 - 🌍  I'm based in Bari,Italy
 - 🖥️  See my portfolio at [MyPortfolio](http://pcomp96.it)
-- ✉️  You can contact me at [compierchiogi96@gmail.com](mailto:compierchiogi96@gmail.com)
-- 🚀  I'm currently working in [Alten Italia @Unicredit]([http://aurigaspa.com](https://www.alten.it/)) as Senior Software Developer
+- ✉️  You can contact me at [compierchiogi96@gmail.com](mailto:gicompierchio@gmail.com)
+- 🚀  I'm currently working in [Alten Italia @Unicredit](https://www.alten.it/) as Senior Software Developer
 - 🧠  I'm learning Quarkus,Astro and React
 - 🤝 I'm open to collaborating on interesting project
 - ⚽️ I am currently playing amateur football in Young Glories
