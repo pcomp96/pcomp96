@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giuseppe Compierchio
+# Hi ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Giuseppe Compierchio
 
 ## I'm a Software Developer
 
@@ -7,7 +7,7 @@ Lorep ipsum...
 - 🌍  I'm based in Bari,Italy
 - 🖥️  See my portfolio at [MyPortfolio](http://pcomp96.it)
 - ✉️  You can contact me at [compierchiogi96@gmail.com](mailto:compierchiogi96@gmail.com)
-- 🚀  I'm currently working in [Auriga](http://aurigaspa.com)
+- 🚀  I'm currently working in [Alten Italia @Unicredit]([http://aurigaspa.com](https://www.alten.it/)) as Senior Software Developer
 - 🧠  I'm learning Quarkus,Astro and React
 - 🤝 I'm open to collaborating on interesting project
 - ⚽️ I am currently playing amateur football in Young Glories
